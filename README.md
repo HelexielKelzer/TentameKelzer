@@ -1,2 +1,6 @@
 # TentameKelzer
-Atualmente não existia ferramentas pra enviar aúdio fake no termux, ent eu criei esse método e n kibem. Pois esta ferramenta é mt conhecida.
+# BY: Helexiel Kelzer
+# NÃO É PERMITO MODIFICAR OU KIBAR.
+# DIVULGUEM ESSE SCRIPT
+# VISITE O NOSSO BLOG https://Site-HeleSoft-BR.blogspot.com/
+
