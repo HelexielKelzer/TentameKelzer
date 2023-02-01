@@ -28,7 +28,7 @@ do
    echo '
 ^-------------------------------------/\--.
 ||============================= \\\\\\  \/~\/\
-||     VERSÃO PARA O TERMUX      \\\\\\  \/
+||     SCRIPT DA HELÊSOFT        \\\\\\  \/
  |~~~~~~~~-________________-_________________\
  \---------|_________       ------~~~~~---   )
                      \ /~~~~\~~\   )--- \_/ (
@@ -70,7 +70,7 @@ do
 = \033[1;33mSobre o Projeto Tentame Kelzer\033[0m \033[1;36m=
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 \033[0m
-\033[1;31mTentame Kelzer é um programa em texto, que tem por objetivo enviar áudio falso no Whatsapp. atualmente está na versão 1 desenvolvida pelo Helexiel Kelzer em Shell Script. 
+\033[1;31mTentame Kelzer é um programa da HeleSoft, que tem por objetivo enviar áudio falso no Whatsapp. atualmente está na versão 1 desenvolvida pelo Helexiel Kelzer em Shell Script. 
 
 A pergunta que não quer calar é "Como ele fez isso?" Ele implementou o programa espeak na sua script para fazer o termux falar e também utilizou um método que ele mesmo descobriu.
 
@@ -169,13 +169,13 @@ Caso você esteja em dúvida de como usar a script é só escolher a opção que
           sleep 0.5
           echo -e '\033[1;34m     Gabriel Flood.\033[0m'
           sleep 0.5
-          echo -e '\033[1;34m     Niccolas prudencio.\033[0m'
+          echo -e '\033[1;34m     Niccolas Prudencio.\033[0m'
           sleep 0;5
           echo -e '\033[1;34m     Leo Azarelf.\033[0m'
           sleep 0.5
           echo -e '\033[1;32mGRUPOS APOIADORES:\033[0m'
           sleep 0.5
-          echo -e '\033[1;34m      ScriptZone \033[0m'
+          echo -e '\033[1;34m      HeleSoft \033[0m'
           sleep 0.5
           echo -e '\033[1;34m      Família Flood \033[0m'
           sleep 0.5
